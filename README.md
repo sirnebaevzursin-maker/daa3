@@ -2,7 +2,7 @@
 
 Daa City Network & Job Scheduler.
 
-**Author:** <<Sirnebayev Zhursin, SE-2509>>
+**Author:** Sirnebayev Zhursin, SE-2509
 
 The project implements a graph class (adjacency list, directed or undirected) and six algorithms written from scratch: DSU with union by rank and path compression, Kruskal, Prim, Kosaraju (iterative DFS), Kahn, and shortest paths in a DAG. The benchmark counts the work of every algorithm (`dsuOps`, `edgeScans`, `comparisons`, `maxDepth`) and checks the results against the reference values of the assignment. The analysis is in [REPORT.md](REPORT.md).
 
@@ -59,7 +59,5 @@ REPORT.md        report
 ```
 
 ## AI use acknowledgement
-
-<<Check that this matches what you really did, and change it if not.>>
 
 I used an AI assistant (Claude, by Anthropic) while working on this assignment: to plan the project structure, to draft the source code and the JUnit tests, to explain the algorithms, and to draft the README and the report. I built the project in the IDE, ran the tests and the benchmark myself, checked the output against the reference table of the assignment, and compared the numbers in the report with my own `results.csv`. I have read all the code and can explain how each class works and why the algorithms have the complexity given in the report.

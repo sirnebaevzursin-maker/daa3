@@ -1,8 +1,8 @@
 # Assignment 3: Graphs – DSU, MST, SCC and Shortest Paths in DAGs
 
 **Course:** Design and Analysis of Algorithms  
-**Author:** <<Zhursin Sirnebayev, SE-2509>>  
-**Repository:** <<https://github.com/sirnebaevzursin-maker/daa3.git>> (branch `main`, tag `v1.0`)
+**Author:** Zhursin Sirnebayev, SE-2509  
+**Repository:** https://github.com/sirnebaevzursin-maker/daa3.git (branch `main`, tag `v1.0`)
 
 ## 0. Overview
 
